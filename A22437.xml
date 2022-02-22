@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God, king of England, Scotland, France and Ireland, defender of the faith, &amp;c. to all our louing subiects greeting forasmuch as wee are credibly informed that there is a very dangerous passage at, and neere a place commonly called by the name of Dungennesse, vpon our coast of Kent ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1627</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22437</idno>
+            <idno type="STC">STC 8855</idno>
+            <idno type="STC">ESTC S3822</idno>
+            <idno type="EEBO-CITATION">33151041</idno>
+            <idno type="OCLC">ocm 33151041</idno>
+            <idno type="VID">28881</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22437)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28881)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:87)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God, king of England, Scotland, France and Ireland, defender of the faith, &amp;c. to all our louing subiects greeting forasmuch as wee are credibly informed that there is a very dangerous passage at, and neere a place commonly called by the name of Dungennesse, vpon our coast of Kent ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>B. Norton and J. Bill,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1627]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes the cover letter of Charles I, requiring collection of fees by customs officers, and payment to W. Lamplugh.</note>
+                  <note>For 50-year patent to Edward Howard to levy shipping fees to pay for lighthouse construction and maintenance.</note>
+                  <note>Imprint information from STC (2nd ed.).</note>
+                  <note>Letter of Charles I dated: Giuen vnder Our Signet at Our Palace of Westminster the fourteenth day of March, in the second yeere of Our Reigne.</note>
+                  <note>"Witnes Our selfe at Westminster, the eight and twentieth day of August. In the yeere of Our Reigne of England, France and Ireland the thirteenth, and of Scotland the nine and fortieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Howard of Escrick, Edward Howard, --  Baron, d. 1675.</term>
+               <term>Lighthouses --  England.</term>
+               <term>Shipping --  Taxation --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:28881:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">I</seg>AMES, by the grace of God, King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> defender of the faith, &amp;c.</hi>
+               </signed> 
+               <salute>To all Our louing Subiects greeting.</salute>
+            </opener>
+            <p>
+               <hi>Foraſmuch</hi> as Wee are credibly informed that there is a very dangerous paſſage, at, and neere a place com<g ref="char:EOLhyphen"/>monly called by the name of Dungenneſſe, vpon Our coaſt of Kent, being a lowe poynt of Land iutting farre into the Sea, where<g ref="char:EOLhyphen"/>by many perſons, aſwell Mariners as others, through occaſion of trading, and ſending into the Southerne parts, haue of late loſt their liues and goods, and the Shipping of this Realme, is ſubiect vnto ſundry hidden dangers, paſſing in and out of the aforeſaid Dungenneſſe, for want of direction by lights in the night to take knowledge of theſe dangers. <hi>Wee</hi> haue therefore thought it ve<g ref="char:EOLhyphen"/>ry expedient and neceſſary; And by theſe preſents for Vs, Our Heires and Succeſſors: Wee doe ordaine and appoint, that ſome conuenient Light-houſe, and Beacon with a light bee there made, erected and maintained, that thereby Shippes and Veſſels may paſſe with ſafety, aſwell by night, as by day. <hi>And</hi> for the defraying of the neceſſary charges, and continuall maintainance of the ſame, that there ſhall be collected and taken of, and for euery Shippe, Hoy, and Barke, that ſhall paſſe that way, one penny vpon euery Tunne outwards bound, and one penny vpon euery Tunne homewards bound, that is to ſay, of the Merchants a halfe penny, and of the Owners of the Ships Hoy, or Barke a halfe penny, &amp; of ſuch Strangers as ſhall happen to paſſe thereby after the like rate as they ſhall put into any Port or Harbor, although they doe not vnloade or diſcharge any goods there. <hi>And</hi> for that Our truſty and welbeloued Seruant Sir <hi>Edward Howard</hi> Knight, and one of Our Cup-bearers, at the requeſt and deſire of ſundry Sea-fairing men, and Merchants of the beſt note, trading into thoſe parts, whereof diuers haue by ſubſcription vnder their hands agreed to the ſayd contribution, in regard of the neceſſitie of the ſaid Light, and the great dangers that haue happened to Our Subiects for want thereof, hath vnder<g ref="char:EOLhyphen"/>taken to make, erect, ſet vp, and maintane vpon that part of the ſaid Dungenneſſe a conuenient Light-houſe and Beacon, with a continuall Light therein in the night ſeaſon, for ſuch contribution in that behalfe to bee made as before, and here in after in theſe preſents is mentioned, <hi>Know yee,</hi> that Wee aſwell in conſideration of the premiſſes, as for diuers other good cauſes and conſiderations, Vs hereunto moouing, of Our eſpeciall grace, certaine knowledge and meere motion, haue giuen and granted, and by theſe preſents for Vs, Our Heires and Succeſſors, Wee doe giue and grant vnto the ſayd Sir <hi>Edward Ho<g ref="char:EOLhyphen"/>ward</hi> Knight, one of Our Cup-bearers, his Executors, Adminiſtrators and Aſſignes, and vnto all and euery ſuch other perſon and perſons as ſhall haue power and authoritie in this behalfe from him and them, or any Deputie or Deputies of his and theirs free libertie, licence, power and authoritie, that hee and they, and euery of them, ſhall, and may make, build, erect, ſet, continue, renew and maintaine, and cauſe to bee made, builded, erected, ſet vp, continued, renewed and maintayned in ſuch place or places of the Sea-ſhores, and Vp and neere the Sea Coaſtes, or Forelands of the Sea, as to them ſhall ſeeme moſt meete, need<g ref="char:EOLhyphen"/>full and requiſite, of, or vpon the ſaid Dungenneſſe a conuenient Light-houſe and Beacon, with a Light to bee continually burning therein in the night ſeaſon, whereby the ſaid Sea-fayring men and Mariners, may take notice of the ſaid hidden dangers, and ſo auoide and eſcape them, and the Ships the better come to their Port without perill. <hi>To haue,</hi> hold, exerciſe and enioy the ſaid liberties, licences, powers and authorities before by theſe preſents giuen and granted, and euery of them vnto the ſayd Sir <hi>Edward Howard</hi> Knight, his Executors, Adminiſtrators and Aſſignes, by him and them, and euery of his and their De<g ref="char:EOLhyphen"/>puties, &amp; Factors and Seruants as is aforeſaid, from hencefoorth for during, and vntill the full end and terme of fifty yeeres, from thence next enſuing, and fully to be compleat and ended in as large &amp; ample manner &amp; forme, to all intents, conſtructions &amp; purpoſes, as the Maſters of Trinity houſe at Deptford-ſtrond in our County of Kent, or any other perſon or perſons any the like liberties, licences, powers or authorities, now haue, hold or enioy, or may, or might haue, hold or enioy in any other place or places within this Our Realme. <hi>And</hi> foraſmuch as other order cannot well be taken for the leuying of the ſaid contributions of one penny vpon the Tunne, as aforeſaid, for the effecting, eſtabliſhing, and continuance of this good worke then in the Ports, Roades and Harbors, vnto which the ſaid Merchants and Mariners doe, and ſhall trade and ariue. <hi>Wee doe</hi> by theſe preſents, for Vs, Our Heires and Succeſſors, ordaine and appoint, and alſo ſtraightly charge, command and authorize all, and euery the Cuſtomers, Collectors and Comptrollers and all other the Officers of the Cuſtomes to Vs, Our Heires and Succeſſors now being, and which for the time being, ſhall bee in Our Port of London, and in all and euery other the Ports, Harbours, Roades &amp; places within this Our Realme of England, to whom &amp; where it ſhall or may appertaine, that they or ſome of them from time to time, and at all times hereafter, during the ſaid terme of fifty yeeres, before ſuch time as they or any of them doe giue any Cocket or other diſcharge, do collect and receiue the ſaid con<g ref="char:EOLhyphen"/>tribution herein before ſpecified aſwell of all and euery ſuch Merchants and Strangers, or all and euery ſuch Ship, Hoy or Barke, belonging to any Mer<g ref="char:EOLhyphen"/>chant or Stranger, as ſhall ariue or anchor within Our Port of London, or any other the Ports, Harbours, Roades and places within this Our Realme of England. And that they and euery of them doe, and ſhall yeelde and make due accompts and payments of all and euery ſuch contributions, ſumme &amp; ſummes of money, as by them, euery and any of them ſhall bee ſo collected or receiued from time to time, vnto the ſayd Sir <hi>Edward Howard</hi> Knight, his Executors, Adminiſtrators or Aſſignes, to bee by him or them receiued and retained to their owne proper vſe and behoofe, for and in reſpect of his and their charges, in erecting and maintaining the ſaid Light-houſe Beacon and Light, to the vſe and purpoſe herein before mentioned, without any accompt or other thing there<g ref="char:EOLhyphen"/>fore, or for any part thereof by him, or them, or any of them, therefore to bee yeelded, made or giuen. <hi>And</hi> to the end and intent that the ſaid Sir <hi>Edward Howard</hi> Knight, his Executors, adminiſtrators and Aſſignes, ſhall and may the better haue and enioy the full force, benefit and effect of this Our preſent grant, <hi>Wee doe alſo</hi> by theſe preſents for Vs, Our Heires and Succeſſours require, charge &amp; authorize aſwell the Lords of Our Priuie Counſell, as alſo all Maiors, Sheriffes, Iuſtices of Peace, Bayliffes and other Officers and Miniſters of Vs, Our Heires and Succeſſours, to whom it doeth or ſhall appertaine, that they and euery of them be from time to time hereafter ayding and aſſiſting to the ſaid Sir <hi>Edward Howard</hi> Knight, his Executors, Adminiſtrators and Aſſignes, in, and concerning the premiſſes, vpon euery complaint or requeſt in that behalfe to bee made according as to Iuſtice ſhall be required by them or any of them with<g ref="char:EOLhyphen"/>out delay.</p>
+            <closer>
+               <dateline>Witneſſe Our ſelfe at Weſtminſter, <date>the eight and twentieth day of Auguſt. In the yeere of Our Reigne of <hi>England, France</hi> and <hi>Ireland</hi> the thir<g ref="char:EOLhyphen"/>teenth, and of <hi>Scotland</hi> the nine and fortieth.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letters_patent">
+            <opener>
+               <signed>Charles R.</signed>
+            </opener>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">T</seg>Ruſty and welbeloued, Wee greete you well.</salute>
+            </opener>
+            <p>Whereas Our late deare Father King IAMES of happy memory, out of His Princely care for the ſafety of His Subiects, both in their perſons and goods, by His Letters Patents vnder the great Seale of England, did autho<g ref="char:EOLhyphen"/>rize and command certaine Moneys to bee leuied and collected for the maintenance of a Light at Dungenneſſe, thereby to auoyd that danger and hazzard, which otherwiſe they that paſſe that way would be ſubiect vnto; And did further appoynt, that thoſe Moneys ſo collected, ſhould be payd vnto <hi>William Lamplugh,</hi> one of the Clerkes of his Kitchin, (and now Our Seruant in the ſame place) in recom<g ref="char:EOLhyphen"/>pence of his great trauell and charge to erect and maintaine the ſaid Light. And whereas our ſayd deare Father, vpon notice, that the ſaid collection, by the practiſe of ſome vnder-Miniſter in the Cuſtome-houſe, was detained, and our Seruant defrauded of the benefit intended vnto him thereby, did, by His Letters directed vnto the then Farmers of the Cuſtomes, will and command them to aſſiſt Our ſayd Seruant, or his deputy, that the ſaid Moneys might be duely leuied and payd, as before they had beene, which accordingly hath been performed. Wee being graciouſly pleaſed, that the benefit of thoſe Moneys ſhould be duely continued and payd to Our ſayd Seruant, aſwell in regard of his paines and expence, as alſo, out of Our ſpeciall care of Our Subiects, leſt through default of that collection, Our ſayd Seruant ſhould bee diſcouraged, and ſo the Light at Dungenneſſe neglected, to the great perill of thoſe that paſſe thereby, haue thought fit, by theſe Our Letters, to require and command you, to ayde and aſſiſt Our ſaid Seruant, or his De<g ref="char:EOLhyphen"/>putie, to collect and receiue the ſayd Moneys in ſuch ſort as formerly they were payd for Merchandizes either exported or imported, and that you deliuer no Cocquet or diſcharge to any Merchant, Maſter, or others, for any goods, vntill ſuch time as the Moneys aforeſayd, bee fully payd, in ſuch manner as they haue been heretofore ſatisfied, according to the purpoſe and intent of the ſaid Letters Patents.</p>
+            <closer>
+               <dateline>Giuen vnder Our Signet at Out Pa<g ref="char:EOLhyphen"/>lace of Weſtminſter <date>the fourteenth day of March, in the ſecond yeere of Our Reigne.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>To Our truſty and welbeloued the Farmers of Our Cuſtomes within the Port of London, and to their Deputies in the out-Ports within Our Realme of England, and to all other Our Officers and louing Subiects whom it ſhall or may in any wiſe concerne.</trailer>
+      </body>
+   </text>
+</TEI>
